@@ -1,0 +1,5 @@
+method,FP,FN,false_positive_rate,false_negative_rate,expected_cost
+quantile_99,54,5,0.12272727272727273,0.05,79.0
+median_std,21,14,0.04772727272727273,0.14,91.0
+mean_std,23,14,0.05227272727272727,0.14,93.0
+median_mad,26,19,0.05909090909090909,0.19,121.0
